@@ -1,0 +1,15 @@
+D:\Front-end developed\C#\Console Application\Практическая 8\Practical work 8\Practical work 8\obj\Debug\net6.0\Practical work 8.csproj.AssemblyReference.cache
+D:\Front-end developed\C#\Console Application\Практическая 8\Practical work 8\Practical work 8\obj\Debug\net6.0\Practical work 8.GeneratedMSBuildEditorConfig.editorconfig
+D:\Front-end developed\C#\Console Application\Практическая 8\Practical work 8\Practical work 8\obj\Debug\net6.0\Practical work 8.AssemblyInfoInputs.cache
+D:\Front-end developed\C#\Console Application\Практическая 8\Practical work 8\Practical work 8\obj\Debug\net6.0\Practical work 8.AssemblyInfo.cs
+D:\Front-end developed\C#\Console Application\Практическая 8\Practical work 8\Practical work 8\obj\Debug\net6.0\Practical work 8.csproj.CoreCompileInputs.cache
+D:\Front-end developed\C#\Console Application\Практическая 8\Practical work 8\Practical work 8\bin\Debug\net6.0\Practical work 8.exe
+D:\Front-end developed\C#\Console Application\Практическая 8\Practical work 8\Practical work 8\bin\Debug\net6.0\Practical work 8.deps.json
+D:\Front-end developed\C#\Console Application\Практическая 8\Practical work 8\Practical work 8\bin\Debug\net6.0\Practical work 8.runtimeconfig.json
+D:\Front-end developed\C#\Console Application\Практическая 8\Practical work 8\Practical work 8\bin\Debug\net6.0\Practical work 8.dll
+D:\Front-end developed\C#\Console Application\Практическая 8\Practical work 8\Practical work 8\bin\Debug\net6.0\Practical work 8.pdb
+D:\Front-end developed\C#\Console Application\Практическая 8\Practical work 8\Practical work 8\obj\Debug\net6.0\Practical work 8.dll
+D:\Front-end developed\C#\Console Application\Практическая 8\Practical work 8\Practical work 8\obj\Debug\net6.0\refint\Practical work 8.dll
+D:\Front-end developed\C#\Console Application\Практическая 8\Practical work 8\Practical work 8\obj\Debug\net6.0\Practical work 8.pdb
+D:\Front-end developed\C#\Console Application\Практическая 8\Practical work 8\Practical work 8\obj\Debug\net6.0\Practical work 8.genruntimeconfig.cache
+D:\Front-end developed\C#\Console Application\Практическая 8\Practical work 8\Practical work 8\obj\Debug\net6.0\ref\Practical work 8.dll
